@@ -1,4 +1,3 @@
-package adventDay4;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
